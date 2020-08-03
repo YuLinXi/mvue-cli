@@ -1,0 +1,9 @@
+{
+  "author": "YuLinXi",
+  "description": "基于vue-cli3现有功能模拟实现的简易vue-cli脚手架",
+  "repository": "https://github.com/YuLinXi/mvue-cli.git",
+  "name": "mvue-cli",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT"
+}
